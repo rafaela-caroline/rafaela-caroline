@@ -7,7 +7,7 @@ Hoje eu corro atrás de me especializar para sempre entregar qualidade e eficiê
 Qualidade é uma cultura e só confiamos naquilo que acreditamos, eu acredito que a cultura de qualidade é necessaria para o desenvolvimento de softwares estáveis que seguem os padrões de excelência exigidos pelo mercado.
 
 ### Mas... como eu falo com você?
-Bem você pode entrar em contato comigo através 
+Bem você pode entrar em contato comigo pelas redes abaixo 👇
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](rafasousamachado12@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafaela-caroline/) 
 
