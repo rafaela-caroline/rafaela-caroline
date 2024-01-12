@@ -1,6 +1,8 @@
 ## Olá, seja bem vindo! 🖐
 
-Oiê, tudo bem? Deixa eu te contar um pouco sobre mim, Trabalhei no comércio por anos e agora estou em transição de carreira para área de tecnologia caminhando para me tornar uma QA (foi amor à primeira vista, eu confesso). Sempre fui apaixonada por aprender coisas novas e trabalhar em equipe. Entrei na área de tecnologia e fiquei encantada pela área de QA, pois aqui tive a chance de dar o meu melhor e me reinventar, sempre foi meu foco, e me tornar QA me deu a oportunidade perfeita de entregar isso aos clientes e ser uma peça importante no crescimento da empresa e da equipe. Hoje eu corro atrás de me especializar para sempre entregar qualidade e eficiência. 🚀✨ 
+Oiê, tudo bem? Deixa eu te contar um pouco sobre mim, Trabalhei no comércio por anos e agora estou em transição de carreira para área de tecnologia caminhando para me tornar uma QA (foi amor à primeira vista, eu confesso).
+Sempre fui apaixonada por aprender coisas novas e trabalhar em equipe. Entrei na área de tecnologia e fiquei encantada pela área de QA, pois aqui tive a chance de dar o meu melhor e me reinventar, sempre foi meu foco, e me tornar QA me deu a oportunidade perfeita de entregar isso aos clientes e ser uma peça importante no crescimento da empresa e da equipe.
+Hoje eu corro atrás de me especializar para sempre entregar qualidade e eficiência. 🚀✨ 
 
 Qualidade é uma cultura e só confiamos naquilo que acreditamos, eu acredito que a cultura de qualidade é necessaria para o desenvolvimento de softwares estáveis que seguem os padrões de excelência exigidos pelo mercado.
 
